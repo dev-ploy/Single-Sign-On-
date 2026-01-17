@@ -7,7 +7,11 @@ using github through spring boot and postgresql
 
 POSTGRESQL
 postgres=# \c sso_db;
+
+
 You are now connected to database "sso_db" as user "milanchristy".
+
+
 
 sso_db=# select*from users;
 
